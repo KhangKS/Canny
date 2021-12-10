@@ -1,0 +1,61 @@
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe.config
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.pdb
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.AssemblyReference.cache
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.SuggestedBindingRedirects.cache
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Main.resources
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Properties.Resources.resources
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.GenerateResource.cache
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.CoreCompileInputs.cache
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.exe
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.pdb
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.OpenPicture.resources
+F:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.CannyPicture.resources
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe.config
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.pdb
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.AssemblyReference.cache
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.SuggestedBindingRedirects.cache
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.CannyPicture.resources
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Main.resources
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.OpenPicture.resources
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Properties.Resources.resources
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.GenerateResource.cache
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.CoreCompileInputs.cache
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.exe
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.pdb
+D:\Công Việc\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Canny.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe.config
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.pdb
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Canny.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.CannyPicture.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.fMain.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Main.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.OpenPicture.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Properties.Resources.resources
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.exe
+C:\Users\Admin\Downloads\CannyKhangNew\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.pdb
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe.config
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.pdb
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.fMain.resources
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Properties.Resources.resources
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.exe
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.pdb
+C:\Users\Admin\Downloads\CannyKhangNew999999\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe.config
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.exe
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\bin\Debug\CannyKhang.pdb
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.fMain.resources
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.exe
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.pdb
+C:\Users\Admin\OneDrive\Máy tính\CannyKhangNew_moi\CannyKhangNew\CannyKhang\CannyKhang\obj\Debug\CannyKhang.csproj.AssemblyReference.cache
